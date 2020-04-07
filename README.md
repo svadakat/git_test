@@ -1,2 +1,2 @@
 # git_test
-Hello!
+Hello work from new branch!
