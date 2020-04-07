@@ -1,2 +1,3 @@
 # git_test
-Hello!
+Hello
+New line from Suresh!
